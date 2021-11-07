@@ -5,4 +5,4 @@ Random repository with different projects that I have learned and/or will learn.
 
 
 ### LocalHost
- The repository can be ran in your localhost:5000
+ The repository might not run in LocalHost.
