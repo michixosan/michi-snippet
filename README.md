@@ -1,7 +1,7 @@
 #### Repository information
 Random repository with different projects that I have learned and/or will learn.
 
-1. AniJs - a javascript library for web animation and design.
+1. ***AniJs*** - a web design without coding. [URL] https://anijs.github.io/
  ```html
 <body>
     <header data-anijs="if: click, do: flipInY animated">
